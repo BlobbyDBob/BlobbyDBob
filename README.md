@@ -1,0 +1,3 @@
+print ("Hi, I'm Blobby, currently trying to make a bot that allows you to play Earthbound battles through Discord...
+Yea, that's not going all too well, so I am using this place to report bugs and maybe, one day, put up the bot's 
+source code up for the masses to use! But for now, I'm just here, really...")
